@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 40px; }
+input, textarea { width: 250px; padding: 6px; }
+button { padding: 8px; }
+table { border-collapse: collapse; }
+th { background: #eee; }
+a { color: blue; text-decoration: none; }
